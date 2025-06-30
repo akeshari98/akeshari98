@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Keshari</h1>
-<h3 align="center">Full-Stack Developer | Backend Engineer | DevOps & AI Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | DevOps & AI Learner</h3>
 
 💫 <b>About Me</b>:
 - 🔭 I’m currently building scalable systems and robust backend architectures
