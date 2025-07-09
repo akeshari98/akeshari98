@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Keshari</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akeshari98&label=Profile%20views&color=0e75b6&style=flat" alt="akeshari98" />
+</p>
 <h3 align="center">Full-Stack Developer | DevOps & AI Learner</h3>
 
 💫 <b>About Me</b>:
