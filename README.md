@@ -15,8 +15,8 @@
 
 🌐 <b>Connect with me</b>  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-keshari-2645a026a/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-1878-orange?style=flat&logo=leetcode)](https://leetcode.com/u/akeshari986/)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-1255-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/ayush_keshari) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-1919-orange?style=flat&logo=leetcode)](https://leetcode.com/u/akeshari986/)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1446-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/ayush_keshari) 
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/akeshapr3o/)
 [![Codechef](https://img.shields.io/badge/Codechef-1626-brightgreen?style=flat&logo=codechef)](https://www.codechef.com/users/ayush_keshari)  
 
